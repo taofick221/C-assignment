@@ -14,6 +14,8 @@ int main() {
         sum += pow(i, 2);
     }
     printf("The semmition of series is: %d\n", sum);
+//     printf("");
 
     return 0;
+    
 }
