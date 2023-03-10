@@ -25,6 +25,7 @@ bool is_prime(int inpt) {
 
 int main() {
     int inpt, result;
+//     int inpt, result;
 
     printf("Please enter a number to cheak is it prime or not? ");
     scanf("%d", &inpt);
